@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "754292313257",
+    "firebase_url": "https://gvelesiani-b09af.firebaseio.com",
+    "project_id": "gvelesiani-b09af",
+    "storage_bucket": "gvelesiani-b09af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754292313257:android:c570b1b38e57d43a2aadb8",
+        "android_client_info": {
+          "package_name": "com.example.meditate2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754292313257-es393lbfuusesds48vghgdgudv23hgb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyThlHThCZGZfoQP1BZsJdbluCTpYcG0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754292313257-es393lbfuusesds48vghgdgudv23hgb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
